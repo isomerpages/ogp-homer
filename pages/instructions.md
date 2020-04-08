@@ -1,0 +1,4 @@
+---
+title: Instructions
+permalink: /instructions/
+---
