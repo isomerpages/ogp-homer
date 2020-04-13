@@ -3,13 +3,81 @@ title: FAQ
 permalink: /faq/
 ---
 
-### **FAQ**
+### **Frequently Asked Questions**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### What is Homer?
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Homer is a mobile application to help report your health status or location. You should only download the app if you have been served either a Quarantine Order or Stay-Home notice.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.---
-title: Faq
-permalink: /faq/
----
+#### Where can I download the Homer app?
+
+Homer is available on both iOS and Android operating systems. To download the app, click on the link that matches your device.
+
+<a href='https://apps.apple.com/us/app/homer-shn-qo/id1506388041'><img alt='Get it on the App Store' style='margin-left: 13px; width:175px' src='/images/download_apple.svg'></a>
+<a href='https://play.google.com/store/apps/details?id=sg.gov.homer&hl=en_SG'><img alt='Get it on Google Play' style='margin-left: 0px; width:200px' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+#### How will I know if I need to download the app?
+
+Your case officer will provide you with instructions when you are served with an Quarantine Order / Stay-Home Notice.
+
+#### How do I register myself on the Homer app?
+
+To register yourself, check if you have the following:
+
+- An active Quarantine Order/Stay-Home notice
+- A phone number that the authorities can contact you on throughout the duration of your order/notice.
+
+**Step 1:**<br>Download the Homer app.
+
+**Step 2:**<br>Go to the Homer app, and enter your phone number when prompted.
+
+**Step 3:**<br>Tap on "Get OTP", and wait to receive a 6 digit One Time Password (OTP).
+
+**Step 4:**<br>Enter the 6 digit OTP, and tap "Verify",
+
+**Step 5:**<br>Read through the terms of the Quarantine Order / Stay-Home Notice, and tap on the "Acknowledge" button if you agree to the terms.
+
+**Step 6:**<br>Allow "Homer" to access your location services (See below).
+
+**Step 7:**<br>Allow "Homer" to display push notifications (See below).
+
+#### Why do I need to enable permissions for location services?
+
+The Quarantine Order/Stay-Home Notice requires you to report your location at regular intervals through the period of the order. 
+This is to ensure that you are staying at your place of residence, and are adhering to the conditions of the order or notice.
+
+#### How do I enable permissions for location services?
+
+For Android devices (Instructions will defer depending on the exact device you are using):
+
+Please refer to this [link](https://support.google.com/accounts/answer/3467281?hl=en)
+
+For iOS devices:
+
+Please refer to this [link](https://support.apple.com/en-us/HT201925)
+
+#### What happens if I do not enable permissions for location services on my device?
+
+If location services are disabled, you will not be able to report your current location, and the relevant authorities will not be able to verify if you have fulfilled the obligations of your Quarantine Order / Stay-Home Notice.
+
+If subsequent attempts to verify your location fail, an enforcement officer may visit your place of residence to verify if you are complying to your order / notice.
+
+#### Why do I need to enable permissions for push notifications?
+
+During your Quarantine Order/Stay-Home Notice, you may be prompted to provide an ad-hoc health status declaration or proof of current location. You you receive these ad-hoc request via the push notifications, and will be required to respond within 15 minutes.
+
+#### How do I enable permissions for push notifications?
+
+For Android devices:
+
+Please refer to this [link](https://support.google.com/android/answer/9079661?hl=en)
+
+For iOS devices:
+
+Please refer to this [link](https://support.apple.com/en-us/HT207092)
+
+### What happens if I do not enable permissions for push notifications on my device?
+
+If push notifications are disable, you will not be able to receive reminder, alerts or warnings from the system.
+
+If subsequent attempts to get in contact with you fail, an enforcement officer may visit your place of residence to verify if you are complying to your order / notice.

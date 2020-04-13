@@ -211,9 +211,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Navbar
 .navbar{
+  background: #100C55;
+  border-color: #100C55;
   &-start{
     .navbar-item{
       a{
+        color: white;
         &.active{
           @include touch(){
             border-bottom:2px solid $secondary;
@@ -229,7 +232,7 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      color: #f5f6fc;
     }
 
     .selector{
@@ -245,7 +248,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color: #f5f6fc;
   }
   .selector {
       background-color:$secondary;
