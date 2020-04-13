@@ -9,9 +9,5 @@ logo: /images/homer-logo.png
 links:
   - title: FAQ
     url: /faq/
-  - title: Instructions
-    url: /instructions/
-  - title: Contact Us
-    url: /contact-us/
-
-
+  - title: Feedback
+    url: https://go.gov.sg/homer-feedback

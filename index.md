@@ -10,12 +10,12 @@ sections:
         title: Stay home, stay safe
         subtitle: with Homer
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        button: Find out more
         url: /faq/
+    # - infobar:
+    #     title: Infobar title
+    #     subtitle: Subtitle
+    #     description: About a sentence worth of description here
+    #     button: Button text
+    #     url: /faq/
 ---
