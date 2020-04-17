@@ -57,3 +57,6 @@ You will be asked to submit report multiple times a day. The below steps vary ac
 
 **2.1 Fill up the details and press Submit**
 <img src="/images/ios-screens/health-report.png" style='width: 400px'/>
+
+#### **Have Questions?**
+Reach out to us <a href="https://go.gov.sg/homer-feedback">here</a> and we will get back shortly.
