@@ -7,7 +7,7 @@ permalink: /faq/
 
 #### What is Homer?
 
-Homer is a mobile application to help report your health status or location. You should only download the app if you have been served either a Quarantine Order or Stay-Home notice.
+Homer is a mobile application to help report your health status or location. You should only download the app if you have been served either a Quarantine Order or Stay-Home Notice.
 
 #### Where can I download the Homer app?
 
@@ -27,7 +27,7 @@ To register yourself, check if you have the following:
 - An active Quarantine Order/Stay-Home notice
 - A phone number that the authorities can contact you on throughout the duration of your order/notice.
 
-**Step 1:**<br>Download the Homer app.
+**Step 1:**<br>Download the Homer app from your respective stores.
 
 **Step 2:**<br>Go to the Homer app, and enter your phone number when prompted.
 
