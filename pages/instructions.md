@@ -21,7 +21,7 @@ permalink: /instructions/
 **3: You will see the Splash screen 您将看到启动页面**
 <img src="/images/ios-screens/splash.png" style='width: 400px'/>
 
-**4: Enter your mobile number on the screen, and press "Get OTP". <br />在屏幕上输入您的手机号码，然后轻点"Get OTP"。** <br />If you face an error here, your mobile number may not be activated for the app, please reach out to your case officer. <br />如果您在这里遇到困难，您的手机号码可能无法激活该应用程序，请您联系您的检查官员。
+**4: Enter your mobile number on the screen, and press "Get OTP". <br />在屏幕上输入您的手机号码，然后轻点"Get OTP"。** <br />If you face an error here, your mobile number may not be activated for the app, please <a target="_blank" href="https://go.gov.sg/homer-feedback">fill in the form here</a> and we will get back to you shortly. <br />如果您在这里遇到困难，您的手机号码可能无法激活该应用程序，请您到<a target="_blank" href="https://go.gov.sg/homer-feedback">此</a>联系我们，我们将尽快给与您答复。
 <img src="/images/ios-screens/onboard-phone.png" style='width: 400px'/>
 
 **5: Enter the 6 digit PIN you receive via SMS, and press "Verify" <br />输入通过短信接收到的6位PIN 码，然后轻点“Verify”键**
@@ -76,4 +76,4 @@ You will be asked to submit report multiple times a day. The below steps vary ac
 <img src="/images/ios-screens/health-report.png" style='width: 400px'/>
 
 #### **Have Questions? 还有任何疑问吗?**
-Reach out to us <a href="https://go.gov.sg/homer-feedback">here</a> and we will get back shortly. <br />请点<a href="https://go.gov.sg/homer-feedback">此</a>联系我们，我们将尽快给与您答复。
+Reach out to us <a target="_blank" href="https://go.gov.sg/homer-feedback">here</a> and we will get back shortly. <br />请点<a target="_blank" href="https://go.gov.sg/homer-feedback">此</a>联系我们，我们将尽快给与您答复。
