@@ -73,7 +73,7 @@ permalink: /how-to-use/bengali/
 **১.৩ প্রয়োজনে রিটেক করুন, অন্যথায় "Use Photo“ টিপুন**
 <img src="/images/ios-screens/selfie-3.png" style='width: 400px'/>
 
-##### ২. স্বাস্থ্য রিপোর্ট জমা দান 
+##### ২. স্বাস্থ্য রিপোর্ট জমা দান
 
 **২.১ বিস্তারিত তথ্যগুলি পূরণ করুন এবং "Submit” টিপুন**
 <br />

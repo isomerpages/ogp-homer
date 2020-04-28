@@ -8,7 +8,7 @@ permalink: /how-to-use/tamil/
 <a href='https://apps.apple.com/us/app/homer-shn-qo/id1506388041'><img alt='Get it on the App Store' style='width:175px;' src='/images/download_apple.svg'></a>
 <a href='https://play.google.com/store/apps/details?id=sg.gov.homer&hl=en_SG'><img alt='Get it on Google Play' style='width:200px;' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-**2: உங்கள் கைபேசியில் ஹோமர் செயலியை 
+**2: உங்கள் கைபேசியில் ஹோமர் செயலியை
 (Homer App) நிறுவ, பதிவிறக்கத்தை (Download) அழுத்தவும், பின்னர் செயலியைத் தொடங்க ‘திற’(Open) என்பதை அழுத்தவும்.**
 <div class="row">
     <div class="column">
@@ -76,7 +76,7 @@ permalink: /how-to-use/tamil/
 
 ##### 2. சுகாதார அறிக்கையை சமர்ப்பித்தல்
 
-**2.1 விவரங்களைப் பூர்த்திசெய்து "சமர்ப்பி" (“Submit”) என்பதை அழுத்துவும்** 
+**2.1 விவரங்களைப் பூர்த்திசெய்து "சமர்ப்பி" (“Submit”) என்பதை அழுத்துவும்**
 <br />
 இருமல் (Cough): ஆம் (Yes) / இல்லை (No) <br />
 தொண்டை வலி (Sore throat): ஆம் (Yes) / இல்லை (No) <br />
