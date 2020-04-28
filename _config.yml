@@ -2,6 +2,10 @@ title: Homer
 url: "https://homer.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.ico
 
+collections:
+  how-to-use:
+    output: true
+
 # Site colors
 colors:
   primary-color: '#100C55'
