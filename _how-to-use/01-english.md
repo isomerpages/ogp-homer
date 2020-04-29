@@ -1,6 +1,6 @@
 ---
 title: English Guide
-permalink: /how-to-use/english/
+permalink: /instructions/
 ---
 
 #### **Getting Started**
