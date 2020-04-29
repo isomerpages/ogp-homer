@@ -8,7 +8,7 @@ permalink: /how-to-use/tamil/
 <a href='https://apps.apple.com/us/app/homer-shn-qo/id1506388041'><img alt='Get it on the App Store' style='width:175px;' src='/images/download_apple.svg'></a>
 <a href='https://play.google.com/store/apps/details?id=sg.gov.homer&hl=en_SG'><img alt='Get it on Google Play' style='width:200px;' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-**2: உங்கள் கைபேசியில் ஹோமர் செயலியை 
+**2: உங்கள் கைபேசியில் ஹோமர் செயலியைcod
 (Homer App) நிறுவ, பதிவிறக்கத்தை (Download) அழுத்தவும், பின்னர் செயலியைத் தொடங்க ‘திற’(Open) என்பதை அழுத்தவும்.**
 <div class="row">
     <div class="column">
@@ -22,13 +22,13 @@ permalink: /how-to-use/tamil/
 **3: நீங்கள் ஸ்பிளாஷ் (Splash) திரையைப் பார்ப்பீர்கள்.**
 <img src="/images/ios-screens/splash.png" style='width: 400px'/>
 
-**4: திரையில் உங்கள் மொபைல்எண்ணை உள்ளிட வேண்டும். ”ஒரு முறை கடவுச் சொல் பெறுக” (“Get OTP”)  என்பதை அழுத்தவும்.** <br />If you face an error here, your mobile number may not be activated for the app, please <a target="_blank" href="https://go.gov.sg/homer-feedback">fill in the form here</a> and we will get back to you shortly.
+**4: திரையில் உங்கள் மொபைல்எண்ணை உள்ளிட வேண்டும். ”ஒரு முறை கடவுச் சொல் பெறுக” (“Get OTP”)  என்பதை அழுத்தவும்.** <br />இங்கு நீங்கள் பிழை எனும் தகவலைப் பார்த்தால், செயலிக்காக உங்கள் மொபைல் எண் செயல்படுத்தப்படாமல் போகலாம், தயவுசெய்து இங்குள்ள படிவத்தை நிரப்பவும், நாங்கள் விரைவில் உங்களைத் தொடர்புகொள்வோம். <a target="_blank" href="https://go.gov.sg/homer-feedback">https://go.gov.sg/homer-feedback</a>
 <img src="/images/ios-screens/onboard-phone.png" style='width: 400px'/>
 
 **5: எஸ்எம்எஸ் வழியாக நீங்கள் பெறும் 6 இலக்க எண்ணை (PIN), உள்ளீடு செய்யவும். “சரிபார்க்கவும்” (“Verify”) என்பதை அழுத்தவும்.**
 <img src="/images/ios-screens/onboard-otp.png" style='width: 400px'/>
 
-**6: Enter the postal code of your quarantine location, and press "Confirm"**
+**6: நீங்கள் தனிமைப்படுத்தப்பட்ட வசிப்பிடத்தின் அஞ்சல் குறியீட்டு எண்ணை உள்ளிட்டு, “உறுதிப்படுத்து” (“Confirm”) என்பதை அழுத்தவும்**
 <img src="/images/ios-screens/postal-code.png" style='width: 400px'/>
 
 **7: அடுத்து என்ன செய்ய வேண்டும் என்பதை திரையில் பார்ப்பீர்கள், “தொடரவும்” (“Continue”) என்பதை அழுத்தவும்.**
@@ -76,7 +76,7 @@ permalink: /how-to-use/tamil/
 
 ##### 2. சுகாதார அறிக்கையை சமர்ப்பித்தல்
 
-**2.1 விவரங்களைப் பூர்த்திசெய்து "சமர்ப்பி" (“Submit”) என்பதை அழுத்துவும்** 
+**2.1 விவரங்களைப் பூர்த்திசெய்து "சமர்ப்பி" (“Submit”) என்பதை அழுத்துவும்**
 <br />
 இருமல் (Cough): ஆம் (Yes) / இல்லை (No) <br />
 தொண்டை வலி (Sore throat): ஆம் (Yes) / இல்லை (No) <br />
@@ -85,5 +85,5 @@ permalink: /how-to-use/tamil/
 
 <img src="/images/ios-screens/health-report.png" style='width: 400px'/>
 
-#### **Have Questions?**
-Reach out to us <a target="_blank" href="https://go.gov.sg/homer-feedback">here</a> and we will get back shortly.
+#### **கேள்விகள் உண்டா?**
+எங்களை இங்கு தொடர்புகொள்ளுங்கள். விரைவில் உங்களுக்குப் பதிலளிப்போம். <a target="_blank" href="https://go.gov.sg/homer-feedback">https://go.gov.sg/homer-feedback</a>
