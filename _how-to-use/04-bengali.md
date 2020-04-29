@@ -21,13 +21,13 @@ permalink: /how-to-use/bengali/
 **৩। আপনি স্প্ল্যাশ স্ক্রিন দেখতে পাবেন।**
 <img src="/images/ios-screens/splash.png" style='width: 400px'/>
 
-**৪। স্ক্রিনে আপনার মোবাইল নম্বর লিখুন এবং “Get OTP” টিপুন।** <br />If you face an error here, your mobile number may not be activated for the app, please <a target="_blank" href="https://go.gov.sg/homer-feedback">fill in the form here</a> and we will get back to you shortly.
+**৪। স্ক্রিনে আপনার মোবাইল নম্বর লিখুন এবং “Get OTP” টিপুন।** <br />আপনি যদি এখানে কোনও ত্রুটির মুখোমুখি হন তবে আপনার মোবাইল নম্বরটি হয়তো অ্যাপটির জন্য সক্রিয় না করা হতে পারে, দয়া করে এখানে ফর্মটি পূরণ করুন এবং আমরা শীঘ্রই আপনার কাছে ফিরে আসব। <a target="_blank" href="https://go.gov.sg/homer-feedback">https://go.gov.sg/homer-feedback</a>
 <img src="/images/ios-screens/onboard-phone.png" style='width: 400px'/>
 
 **৫. আপনি এসএমএসের মাধ্যমে প্রাপ্ত ৬ ডিজিটের পিনটি লিখুন এবং  “Verify" টিপুন।**
 <img src="/images/ios-screens/onboard-otp.png" style='width: 400px'/>
 
-**Enter postal code**
+**আপনাকে যে স্থানে কোয়ারান্টিনে রাখা হয়েছে সেই স্থানের ডাক কোড লিখুন এবং "Confirm" টিপুন।**
 <img src="/images/ios-screens/postal-code.png" style='width: 400px'/>
 
 **৬। আপনি নির্দেশাবলী সহ একটি স্ক্রিন দেখতে পাবেন, “Continue" টিপুন।**
@@ -46,7 +46,7 @@ permalink: /how-to-use/bengali/
 **৮। আইওএস ফোনগুলির জন্য, যখন " Allow Homer to send push notifications?” দেখা যাবে, তখন “Allow” টিপুন।**
 <img src="/images/ios-screens/allow-pn.png" style='width: 400px'/>
 
-**9: ৯। সম্পন্ন হয়েছে। আপনি এখন হোম স্ক্রিন দেখতে পাবেন।**
+**৯। সম্পন্ন হয়েছে। আপনি এখন হোম স্ক্রিন দেখতে পাবেন।**
 <img src="/images/ios-screens/home.png" style='width: 400px'/>
 
 #### **২। রিপোর্ট জমা দিন**
@@ -86,5 +86,5 @@ permalink: /how-to-use/bengali/
 শ্বাস কষ্ট (Shortness of Breath): হ্যাঁ (Yes) / না (No)
 <img src="/images/ios-screens/health-report.png" style='width: 400px'/>
 
-#### **Have Questions?**
-Reach out to us <a target="_blank" href="https://go.gov.sg/homer-feedback">here</a> and we will get back shortly.
+#### **কোনো প্রশ্ন আছে?**
+এখানে আমাদের কাছে পৌঁছে যান এবং আমরা শীঘ্রই ফিরে আসব <a target="_blank" href="https://go.gov.sg/homer-feedback">https://go.gov.sg/homer-feedback</a>

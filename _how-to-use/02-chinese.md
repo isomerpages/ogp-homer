@@ -27,7 +27,7 @@ permalink: /how-to-use/chinese/
 **5: 输入通过短信接收到的6位PIN 码，然后轻点“Verify”键**
 <img src="/images/ios-screens/onboard-otp.png" style='width: 400px'/>
 
-**6: 输入您在居家隔离期间的邮政编码, 然后轻点“Confirm”键**
+**6: 输入您的隔离地点邮码, 然后轻点“Confirm”键**
 <img src="/images/ios-screens/postal-code.png" style='width: 400px'/>
 
 **7: 您会在屏幕上看到说明栏，请轻点“Continue”**
