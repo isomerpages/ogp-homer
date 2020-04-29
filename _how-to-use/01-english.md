@@ -1,5 +1,5 @@
 ---
-title: English Guide
+title: User Guide
 permalink: /instructions/
 ---
 
