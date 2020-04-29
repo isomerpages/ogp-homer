@@ -7,8 +7,8 @@
 logo: /images/homer-logo.png
 
 links:
-  - title: Instructions
-    url: /instructions/
+  - title: How To Use
+    collection: how-to-use
   - title: FAQ
     url: /faq/
   - title: Feedback

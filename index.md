@@ -10,8 +10,8 @@ sections:
         title: Stay home, stay safe
         subtitle: with Homer
         background: /images/hero-banner.png
-        button: Find out more
-        url: /faq/
+        button: How To Use
+        url: /how-to-use/english
     # - infobar:
     #     title: Infobar title
     #     subtitle: Subtitle
