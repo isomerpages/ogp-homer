@@ -11,7 +11,7 @@ sections:
         subtitle: with Homer
         background: /images/hero-banner.png
         button: How To Use
-        url: /how-to-use/english
+        url: /instructions/
     # - infobar:
     #     title: Infobar title
     #     subtitle: Subtitle
