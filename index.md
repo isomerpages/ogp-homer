@@ -12,10 +12,30 @@ sections:
         background: /images/hero-banner.png
         button: How To Use
         url: /how-to-use/english
-    # - infobar:
-    #     title: Infobar title
-    #     subtitle: Subtitle
-    #     description: About a sentence worth of description here
-    #     button: Button text
-    #     url: /faq/
+    - infopic:
+        title: For SHNs and QOs
+        subtitle: Trusted by these agencies
+        description: Used by these government agencies since January 2020 for persons under Stay Home Notices (SHN) and Quarantine Orders (QO).
+        image: /images/homer-agencies.png
+        alt: Homer App
+    - infopic:
+        title: Homer App
+        subtitle: Product
+        description: Homer App’s auto location reporting function submits your current location to the relevant authorities multiple times a day. It also enables the submission of health reports, consisting of a selfie for identity verification, and your health status three times a day.
+        button: Learn More
+        url: /faq/
+        image: /images/homer-app.png
+        alt: Homer App
+    - infopic:
+        title: Homer SMS
+        subtitle: Product
+        description: Homer SMS sends a unique link to persons under quarantine or Stay Home Notice (SHN) for them to update their location through a browser. For more information, email us <a target="_blank" href="https://go.gov.sg/homer-feedback">here</a>
+        image: /images/homer-sms.png
+        alt: Homer SMS
+    - infobar:
+        title: Need help?
+        description: Step by step guides for getting setup and submitting reports available in English, Chinese, Tamil, Bengali, Thai, and Burmese
+        button: Get started
+        url: /faq/
+
 ---
