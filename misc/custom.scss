@@ -225,6 +225,19 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+@media (max-width: 1280px) {
+  .navbar {
+    &-start{
+      .navbar-item{
+        a {
+          color: black;
+        }
+      }
+    }
+  }
+}
+
   .navbar-link:hover:after {
     border-bottom: 1px solid $secondary;
     border-left: 1px solid $secondary;
