@@ -48,12 +48,10 @@ This is to ensure that you are staying at your place of residence, and are adher
 
 #### How do I enable permissions for location services?
 
-For Android devices (Instructions will defer depending on the exact device you are using):
-
+**For Android devices** (Instructions will defer depending on the exact device you are using):<br />
 Please refer to this [link](https://support.google.com/accounts/answer/3467281?hl=en)
 
-For iOS devices:
-
+**For iOS devices:**<br />
 Please refer to this [link](https://support.apple.com/en-us/HT201925)
 
 #### What happens if I do not enable permissions for location services on my device?
@@ -68,15 +66,11 @@ During your Quarantine Order/Stay-Home Notice, you may be prompted to provide an
 
 #### How do I enable permissions for push notifications?
 
-For Android devices:
+**For Android devices:**<br />Please refer to this [link](https://support.google.com/android/answer/9079661?hl=en)
 
-Please refer to this [link](https://support.google.com/android/answer/9079661?hl=en)
+**For iOS devices:**<br />Please refer to this [link](https://support.apple.com/en-us/HT207092)
 
-For iOS devices:
-
-Please refer to this [link](https://support.apple.com/en-us/HT207092)
-
-### What happens if I do not enable permissions for push notifications on my device?
+#### What happens if I do not enable permissions for push notifications on my device?
 
 If push notifications are disable, you will not be able to receive reminder, alerts or warnings from the system.
 
