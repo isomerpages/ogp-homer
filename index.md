@@ -36,5 +36,5 @@ sections:
         title: Need help?
         description: Step by step guides for getting setup and submitting reports available in English, Chinese, Tamil, Bengali, Thai, and Burmese
         button: Get started
-        url: /how-to-use/english
+        url: /instructions
 ---
