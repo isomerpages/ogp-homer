@@ -11,7 +11,7 @@ sections:
         subtitle: with Homer
         background: /images/hero-banner.png
         button: How To Use
-        url: /how-to-use/english
+        url: /instructions
     - infopic:
         title: For SHNs and QOs
         subtitle: Trusted by these agencies
@@ -36,5 +36,5 @@ sections:
         title: Need help?
         description: Step by step guides for getting setup and submitting reports available in English, Chinese, Tamil, Bengali, Thai, and Burmese
         button: Get started
-        url: /how-to-use/english
+        url: /instructions
 ---
