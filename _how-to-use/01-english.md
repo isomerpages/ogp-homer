@@ -78,7 +78,7 @@ permalink: /instructions
 
 **10.** **For Android devices**, configure battery settings by following below video tutorial for your phone brand. This allows your location reporting to be sent in the background.
 <br>
-[[Huawei](https://www.youtube.com/embed/o0rPNaSY2_8)] [[Oppo](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi/Redmi](https://www.youtube.com/embed/f_jA9zibpX0)]
+[[Huawei](https://www.youtube.com/embed/BKihflSTN-s)] [[Oppo](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi/Redmi](https://www.youtube.com/embed/f_jA9zibpX0)]
 <br>
 
 

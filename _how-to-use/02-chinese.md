@@ -76,7 +76,7 @@ permalink: /how-to-use/chinese
 
 **10.** **安卓用户：** 请选择手机品牌，然后按照视频说明配置省电系统。
 <br>
-[[Huawei 华为](https://www.youtube.com/embed/o0rPNaSY2_8)] [[Oppo 欧珀](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung 三星](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo 维沃](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi 小米/ Redmi红米](https://www.youtube.com/embed/f_jA9zibpX0)]
+[[Huawei 华为](https://www.youtube.com/embed/BKihflSTN-s)] [[Oppo 欧珀](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung 三星](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo 维沃](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi 小米/ Redmi红米](https://www.youtube.com/embed/f_jA9zibpX0)]
 <br>
 
 
