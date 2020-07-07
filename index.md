@@ -4,7 +4,7 @@ title: Homer
 description: Welcome to Homer
 image: /images/homer-logo.png
 permalink: /
-# notification: Here's a notification bar you can use!
+notification: Constantly receiving warning notifications? <a href='/device-tutorial'>See our video tutorial here</a> to resolve this and stay compliant.
 sections:
     - hero:
         title: Stay home, stay safe
