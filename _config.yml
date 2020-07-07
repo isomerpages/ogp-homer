@@ -5,7 +5,7 @@ favicon: /images/favicon.ico
 collections:
   how-to-use:
     output: true
-google_analytics: G-V58T49HNV0
+google_analytics: UA-162661476-1
 
 # Site colors
 colors:
