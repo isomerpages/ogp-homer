@@ -75,3 +75,8 @@ During your Quarantine Order/Stay-Home Notice, you may be prompted to provide an
 If push notifications are disable, you will not be able to receive reminder, alerts or warnings from the system.
 
 If subsequent attempts to get in contact with you fail, an enforcement officer may visit your place of residence to verify if you are complying to your order / notice.
+
+#### Why do I keep receiving notifications telling me not to close Homer?
+
+1. Your phone could have closed Homer by itself. See video tutorial [here](/device-tutorial) to Turn Battery Optimisation Off.
+2. Homer is closed in the background. Open Homer again and make sure it is running in the background at all times.

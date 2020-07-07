@@ -69,11 +69,16 @@ permalink: /instructions
 
 <br>
 
-**9.** **Done!** You will now see the Home Screen.
+**9.** You will now see the Home Screen.
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
 
+<br>
+
+**10.** **For Android devices**, configure battery settings by following below video tutorial for your phone brand. This allows your location reporting to be sent in the background.
+<br>
+[[Huawei](https://www.youtube.com/embed/o0rPNaSY2_8)] [[Oppo](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi/Redmi](https://www.youtube.com/embed/f_jA9zibpX0)]
 <br>
 
 

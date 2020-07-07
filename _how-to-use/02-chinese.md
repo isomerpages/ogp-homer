@@ -69,10 +69,16 @@ permalink: /how-to-use/chinese
 
 <br />
 
-**9.** 完成。您将看到主屏幕。
+**9.** 您将看到主屏幕。
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
+
+**10.** **安卓用户：** 请选择手机品牌，然后按照视频说明配置省电系统。
+<br>
+[[Huawei 华为](https://www.youtube.com/embed/o0rPNaSY2_8)] [[Oppo 欧珀](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung 三星](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo 维沃](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi 小米/ Redmi红米](https://www.youtube.com/embed/f_jA9zibpX0)]
+<br>
+
 
 #### **提交报告**
 您将被要求每天提交多次报告。以下步骤将根据您是接获居家通知或是隔离令而有所不同。
