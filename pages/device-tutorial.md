@@ -7,10 +7,10 @@ If you are constantly receiving notifications telling you **Warning - Do not clo
 
 Follow the below video tutorial for your phone brand to turn Battery Optimisation off, so that you can stop receiving these notifications and remain compliant.
 <br >
-[[Huawei](https://www.youtube.com/embed/o0rPNaSY2_8)] [[Oppo](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi/Redmi](https://www.youtube.com/embed/f_jA9zibpX0)]
+[[Huawei](https://www.youtube.com/embed/BKihflSTN-s)] [[Oppo](https://www.youtube.com/embed/zLCJ0Wj578E)] [[Samsung](https://www.youtube.com/embed/6MIcpMGn5eI)] [[Vivo](https://www.youtube.com/embed/-HvzmFXDVYY)] [[Xiaomi/Redmi](https://www.youtube.com/embed/f_jA9zibpX0)]
 
 #### **Huawei**
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/o0rPNaSY2_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BKihflSTN-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Oppo**
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zLCJ0Wj578E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
