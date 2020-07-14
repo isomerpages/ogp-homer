@@ -72,13 +72,17 @@ permalink: /how-to-use/thai
 
 <br />
 
-**9.** เสร็จสิ้น คุณจะเห็นหน้าจอหลักปรากฏ
+**9.** คุณจะเห็นหน้าจอหลักปรากฏ
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
 
 <br />
 
+**10.** **สำหรับอุปกรณ์  แอ็นดรอด** การตั้งค่าแบตเตอรี่ทำตามวิดีโอสอนข้างล่างตามยี่ห้อโทรศัพท์ของคุณ  ซึ่งช่วยให้การรายงานตำแหน่งของคุณถูกส่งไปในจอพื้นหลัง.
+<br>
+[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+<br>
 
 ### **ขอส่งรายงาน**
 จะมีการขอให้ส่งรายงานหลายครั้งต่อวัน ขั้นตอนที่ระบุไว้ข้างล่างแตกต่างกันไปตามว่า คุณได้รับหมายประกาศให้อยู่ในที่พัก หรือคำสั่งกักกัน

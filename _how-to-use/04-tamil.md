@@ -70,12 +70,17 @@ permalink: /how-to-use/tamil/
 
 <br />
 
-**9: முடிவுற்றது. நீங்கள் இப்போது முகப்புத் திரையைப் (Home Screen) பார்ப்பீர்கள்**
+**9: நீங்கள் இப்போது முகப்புத் திரையைப் (Home Screen) பார்ப்பீர்கள்**
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
 
 <br />
+
+**10.** **அன்ட்ராய்ட் சாதனங்களுக்கு,**, பேட்டரி அமைப்புகளை உங்கள் குறிப்பிட்ட கைபேசிக்கு  உள்ளமைக்க,  பின்வரும் காணொளி வழிகாட்டியைப் பாருங்கள். நீங்கள் இருக்குமிடத்தைப் பின்னனியில்  தெரிவிக்க இது அனுமதிக்கும்.
+<br>
+[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+<br>
 
 ### **அறிக்கையைச் சமர்ப்பிக்கவும்**
 ஒரு நாளைக்கு பல முறை அறிக்கை சமர்ப்பிக்கும்படி கேட்டுக்கொள்ளப்படுவீர்கள். நீங்கள் வீட்டிலேயே இருக்க வேண்டிய உத்தரவில் உள்ளீர்களா அல்லது தடைகாப்பு ஆணையில் உள்ளீர்களா என்பதைப் பொறுத்து கீழ்க்கண்டவற்றை நீங்கள் செய்வது மாறுபடும்.

@@ -67,11 +67,16 @@ permalink: /how-to-use/bengali/
 </div>
 <br />
 
-**৯। সম্পন্ন হয়েছে। আপনি এখন হোম স্ক্রিন দেখতে পাবেন।**
+**৯। আপনি এখন হোম স্ক্রিন দেখতে পাবেন।**
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
 <br />
+
+**10.** **অ্যানড্রয়েড ডিভাইসের জন্য**, আপনার ফোনের ব্রান্ডের জন্য নীচের ভিডিওতে শেখানো প্দ্ধতি অনুসরণ করে ব্যাটারি সেটিংস কনফিগার করুন।এটি আপনার অবস্থানের ব্যাপারে রিপোর্টটিকে পটভূমিতে পাঠানোর অনুমতি দেয়.
+<br>
+[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+<br>
 
 ### **২। রিপোর্ট জমা দিন**
 আপনাকে দিনে একাধিকবার রিপোর্ট জমা দিতে বলা হবে। নীচের পদক্ষেপগুলি আপনি বাড়িতে থাকার নোটিশে আছেন কিনা, বা কোয়ারান্টিন আদেশের উপর আছেন কিনা তার উপর নির্ভর করে ভিন্ন হতে পারে।
