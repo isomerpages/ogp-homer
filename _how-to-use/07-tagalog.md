@@ -69,11 +69,16 @@ permalink: /how-to-use/tagalog
 
 <br>
 
-**9.** **Done!** Tapos na. Makikita mo na ngayon ang Home Iskrin.
+**9.** Tapos na. Makikita mo na ngayon ang Home Iskrin.
 <div class="image-wrapper">
     <img src="/images/ios-screens/home.png" style='width: 200px'/>
 </div>
 
+<br>
+
+**10.** **Para sa mga Android,** i-configure ang "battery settings" sa pamamagitan ng pagsunod sa "video tutorial" na ito para sa klase ng inyong telepono. Papayagan nito na magpadala ng ulat ng inyong lokasyon sa "background".
+<br>
+[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
 <br>
 
 

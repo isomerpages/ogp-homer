@@ -77,6 +77,13 @@ permalink: /how-to-use/burmese
 
 <br>
 
+**10.** **သံုးရလြယ္ကူေစရန္၊သင္တို႔၏ဖနုး္အမ်ဳိးအစားအ**ွတ္တံဆိပ္အလိုက္၊
+ေအာက္ပါဗီဒီယိုျဖင့သ္ င္ၾကားျပသထားသည့္အတိုင္း၊ဘက္ထရီsetting လုပ္ပါ။ ထိုသို႔လုပ္ထားမွသာ၊ေနာက္ခံ
+backgroundမွေန၍သင္၏႐ွိေနရာအရပ္ locationကိုတင္ျပေနလိမ့္မည္။
+<br>
+[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+<br>
+
 
 ### **အစီရင္ခံစာတင္ျပရန္**
 သင့္အားတေန႔လ်ွင္အစီရင္ခံစာအႀကိမ္ေပါင္းမ်ားစြာတင္ျပရန္ေတာင္းဆိုလိမ့္မည္။​ေအာက္ပါအဆင့္မ်ားကသင္အား အိမ္တြင္ေနရန္ႏို႔တစ္စာ Stay Home Notice သို႔မဟုတ္ေရာဂါေျခခ်ဳပ္အမိန္႔ Quarantine Order မည္သည့္ အမိန္႔ထုတ္ထားေၾကာင္းခြဲျခားျပပါလိမ့္မည္။
