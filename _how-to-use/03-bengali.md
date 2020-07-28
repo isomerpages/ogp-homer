@@ -75,7 +75,7 @@ permalink: /how-to-use/bengali/
 
 **10.** **অ্যানড্রয়েড ডিভাইসের জন্য**, আপনার ফোনের ব্রান্ডের জন্য নীচের ভিডিওতে শেখানো প্দ্ধতি অনুসরণ করে ব্যাটারি সেটিংস কনফিগার করুন।এটি আপনার অবস্থানের ব্যাপারে রিপোর্টটিকে পটভূমিতে পাঠানোর অনুমতি দেয়.
 <br>
-[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+[[Huawei](https://www.youtube.com/embed/EYqgmfxvvJw)] [[Oppo](https://www.youtube.com/embed/vtZaSR1xzCw)] [[Samsung](https://www.youtube.com/embed/a76bVTVbzVU)] [[Vivo](https://www.youtube.com/embed/phxp_OvMtRU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/huC8fXnPM1A)]
 <br>
 
 ### **২। রিপোর্ট জমা দিন**

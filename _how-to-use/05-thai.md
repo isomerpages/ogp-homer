@@ -81,7 +81,7 @@ permalink: /how-to-use/thai
 
 **10.** **สำหรับอุปกรณ์  แอ็นดรอด** การตั้งค่าแบตเตอรี่ทำตามวิดีโอสอนข้างล่างตามยี่ห้อโทรศัพท์ของคุณ  ซึ่งช่วยให้การรายงานตำแหน่งของคุณถูกส่งไปในจอพื้นหลัง.
 <br>
-[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+[[Huawei](https://www.youtube.com/embed/EYqgmfxvvJw)] [[Oppo](https://www.youtube.com/embed/vtZaSR1xzCw)] [[Samsung](https://www.youtube.com/embed/a76bVTVbzVU)] [[Vivo](https://www.youtube.com/embed/phxp_OvMtRU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/huC8fXnPM1A)]
 <br>
 
 ### **ขอส่งรายงาน**

@@ -81,7 +81,7 @@ permalink: /how-to-use/burmese
 ေအာက္ပါဗီဒီယိုျဖင့သ္ င္ၾကားျပသထားသည့္အတိုင္း၊ဘက္ထရီsetting လုပ္ပါ။ ထိုသို႔လုပ္ထားမွသာ၊ေနာက္ခံ
 backgroundမွေန၍သင္၏႐ွိေနရာအရပ္ locationကိုတင္ျပေနလိမ့္မည္။
 <br>
-[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+[[Huawei](https://www.youtube.com/embed/EYqgmfxvvJw)] [[Oppo](https://www.youtube.com/embed/vtZaSR1xzCw)] [[Samsung](https://www.youtube.com/embed/a76bVTVbzVU)] [[Vivo](https://www.youtube.com/embed/phxp_OvMtRU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/huC8fXnPM1A)]
 <br>
 
 
