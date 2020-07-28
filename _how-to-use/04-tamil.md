@@ -79,7 +79,7 @@ permalink: /how-to-use/tamil/
 
 **10.** **அன்ட்ராய்ட் சாதனங்களுக்கு,**, பேட்டரி அமைப்புகளை உங்கள் குறிப்பிட்ட கைபேசிக்கு  உள்ளமைக்க,  பின்வரும் காணொளி வழிகாட்டியைப் பாருங்கள். நீங்கள் இருக்குமிடத்தைப் பின்னனியில்  தெரிவிக்க இது அனுமதிக்கும்.
 <br>
-[[Huawei](https://www.youtube.com/embed/DAfZca4Y9C0)] [[Oppo](https://www.youtube.com/embed/y_pmrLO5r40)] [[Samsung](https://www.youtube.com/embed/0UKZ96btTY8)] [[Vivo](https://www.youtube.com/embed/JjqLPD50AfU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/9mG8-mToOIs)]
+[[Huawei](https://www.youtube.com/embed/EYqgmfxvvJw)] [[Oppo](https://www.youtube.com/embed/vtZaSR1xzCw)] [[Samsung](https://www.youtube.com/embed/a76bVTVbzVU)] [[Vivo](https://www.youtube.com/embed/phxp_OvMtRU)] [[Xiaomi/Redmi](https://www.youtube.com/embed/huC8fXnPM1A)]
 <br>
 
 ### **அறிக்கையைச் சமர்ப்பிக்கவும்**
