@@ -9,6 +9,8 @@ logo: /images/homer-logo.png
 links:
   - title: Choose Language
     collection: how-to-use
+  - title: Settings Tutorial
+    collection: settings-tutorial
   - title: FAQ
     url: /faq/
   - title: Feedback
