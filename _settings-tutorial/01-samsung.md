@@ -33,6 +33,8 @@ Follow these **2 steps** to change your Samsung phone settings so Homer can rece
     <img alt='Samsung Step 2' style='width:195px;' src='/images/tutorial/samsung2.png'>
 </div>
 
+### **Done! Thank you for completing the steps.**
+
 Instructions for other brands:<br>
 <a href="/settings-tutorial-vivo">Vivo</a><br>
 <a href="/settings-tutorial-huawei">Huawei</a><br>

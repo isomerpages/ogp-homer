@@ -27,7 +27,7 @@ Follow these **2 steps** to change your Vivo phone settings so Homer can receive
     <img alt='Vivo Step 2' style='width:195px;' src='/images/tutorial/vivo2.png'>
 </div>
 
-<hr>
+### **Done! Thank you for completing the steps.**
 
 Instructions for other brands:<br>
 <a href="/settings-tutorial-samsung">Samsung</a><br>

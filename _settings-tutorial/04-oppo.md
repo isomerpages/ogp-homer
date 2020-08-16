@@ -65,6 +65,8 @@ Follow these **5 steps** to change your Oppo phone settings so Homer can receive
     <img alt='Oppo Step 5' style='width:195px;' src='/images/tutorial/oppo5.png'>
 </div>
 
+### **Done! Thank you for completing the steps.**
+
 Instructions for other brands:<br>
 <a href="/settings-tutorial-samsung">Samsung</a><br>
 <a href="/settings-tutorial-vivo">Vivo</a><br>

@@ -48,6 +48,8 @@ Follow these **3 steps** to change your Huawei phone settings so Homer can recei
     <img alt='Huawei Step 3' style='width:195px;' src='/images/tutorial/huawei3.png'>
 </div>
 
+### **Done! Thank you for completing the steps.**
+
 Instructions for other brands:<br>
 <a href="/settings-tutorial-samsung">Samsung</a><br>
 <a href="/settings-tutorial-vivo">Vivo</a><br>
