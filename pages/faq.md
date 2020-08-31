@@ -7,7 +7,7 @@ permalink: /faq/
 
 #### What is Homer?
 
-Homer is a mobile application to help report your health status or location. You should only download the app if you have been served either a Quarantine Order or Stay-Home Notice.
+Homer is a mobile application to help report your health status or location. You should only download the app if you have been informed by a Singapore Government Agency to do so.
 
 #### Where can I download the Homer app?
 
@@ -18,13 +18,13 @@ Homer is available on both iOS and Android operating systems. To download the ap
 
 #### How will I know if I need to download the app?
 
-Your case officer will provide you with instructions when you are served with an Quarantine Order / Stay-Home Notice.
+Your case officer from the Singapore Government Agency will provide you with instructions.
 
 #### How do I register myself on the Homer app?
 
 To register yourself, check if you have the following:
 
-- An active Quarantine Order/Stay-Home notice
+- An official notice asking you to download this app.
 - A phone number that the authorities can contact you on throughout the duration of your order/notice.
 
 **Step 1:**<br>Download the Homer app from your respective stores.
@@ -56,13 +56,13 @@ Please refer to this [link](https://support.apple.com/en-us/HT201925)
 
 #### What happens if I do not enable permissions for location services on my device?
 
-If location services are disabled, you will not be able to report your current location, and the relevant authorities will not be able to verify if you have fulfilled the obligations of your Quarantine Order / Stay-Home Notice.
+If location services are disabled, you will not be able to report your current location, and the relevant authorities will not be able to verify if you have fulfilled the obligations of your order / notice.
 
 If subsequent attempts to verify your location fail, an enforcement officer may visit your place of residence to verify if you are complying to your order / notice.
 
 #### Why do I need to enable permissions for push notifications?
 
-During your Quarantine Order/Stay-Home Notice, you may be prompted to provide an ad-hoc health status declaration or proof of current location. You you receive these ad-hoc request via the push notifications, and will be required to respond within 15 minutes.
+During your monitoring period, you may be prompted to provide an ad-hoc health status declaration or proof of current location. You you receive these ad-hoc request via the push notifications, and will be required to respond within 15 minutes.
 
 #### How do I enable permissions for push notifications?
 
