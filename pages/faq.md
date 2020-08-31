@@ -35,7 +35,7 @@ To register yourself, check if you have the following:
 
 **Step 4:**<br>Enter the 6 digit OTP, and tap "Verify",
 
-**Step 5:**<br>Read through the terms of the Quarantine Order / Stay-Home Notice, and tap on the "Acknowledge" button if you agree to the terms.
+**Step 5:**<br>Read through the terms, and tap on the "Acknowledge" button if you agree to the terms.
 
 **Step 6:**<br>Allow "Homer" to access your location services (See below).
 
@@ -43,7 +43,7 @@ To register yourself, check if you have the following:
 
 #### Why do I need to enable permissions for location services?
 
-The Quarantine Order/Stay-Home Notice requires you to report your location at regular intervals through the period of the order. 
+The order / notice requires you to report your location at regular intervals through the period of the order. 
 This is to ensure that you are staying at your place of residence, and are adhering to the conditions of the order or notice.
 
 #### How do I enable permissions for location services?
