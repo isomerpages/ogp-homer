@@ -17,12 +17,12 @@ permalink: /privacy/
   </li>
   <li>To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</li>
   <li>This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.</li>
-  <li>Please contact GovTechs's Quality Service Manager if you :
+  <li>Please contact GovTech's Quality Service Manager if you :
     <ol type="a" style="list-style: lower-alpha">
       <li>have any enquires or feedback on our data protection policies and procedures,</li>
       <li>need more information on or access to data which you have provided to us in the past.</li>
       <br>Quality Service Manager
-      <br>Tel: 1800 211 0777 (Monday to Friday, 8.30am to 6.00pm)
+      <br>Tel: 1800 211 0777 (Monday to Thursday: 8.30am to 6.00pm, Friday: 8.30am to 5.30pm)
     </ol>
   </li>
 </ol>
@@ -56,10 +56,10 @@ Right to collect, use and disclose data and information connected with the user'
 ### How we use the information and share personal data?
 
 <ol start="7">
-  <li>The information will be used to:</li>  
+  <li>The information will be used to:</li>
   <ol type="a" style="list-style: lower-alpha">
     <li>Register with the relevant SHN administration authority for your SHN compliance;</li>
-    <li>Troubleshoot the QO/SHN Reporting system, if required; or</li>  
+    <li>Troubleshoot the QO/SHN Reporting system, if required; or</li>
     <li>Improve the performance of the App.</li>
   </ol>
   <li>GovTech may share necessary data with other Government agencies or non-Government organisations authorised by GovTech to carry out specific functions in order to render an efficient and effective service to the individual, unless the sharing of data is prohibited by legislation.</li>
@@ -73,7 +73,7 @@ Right to collect, use and disclose data and information connected with the user'
       <li>To request for amendments to his/ her Data on the basis that the Data collected or maintained by the GovTech is inaccurate or incomplete; or</li>
       <li>To provide feedback in relation to GovTech's Privacy Policy.</li>
       <br>Quality Service Manager
-      <br>Tel: 1800 211 0777 (Monday to Friday, 8.30am to 6.00pm)
+      <br>Tel: 1800 211 0777 (Monday to Thursday: 8.30am to 6.00pm, Friday: 8.30am to 5.30pm)
     </ol>
   </li>
 </ol>
