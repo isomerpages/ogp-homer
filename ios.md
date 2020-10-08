@@ -3,10 +3,6 @@ title: iOS users
 permalink: /ios
 ---
 
-For Homer to receive your location, do not swipe away the app. You should also see a blue bar at the top of your screen indicating that Homer is using your lcoation. See below for examples.<br>
-
-<hr>
-
 ### **1. Do not swipe away Homer**<br>
 <div class="image-wrapper">
     <img alt='No swiping' style='width:300px;' src='/images/swipe/ios-no-swiping.gif'>
