@@ -4,7 +4,7 @@ permalink: /instructions
 ---
 
 ### **Getting Started**
-**1.** Tap on the images below, or<br>On Apple App Store, search for **Homer - QO SHN**<br>On Google Play Store, search for **Homer**
+**1.** Tap on the images below, or<br>On Apple App Store, search for **Homer Monitoring**<br>On Google Play Store, search for **Homer**
 
 <div class="image-wrapper">
     <a href='https://apps.apple.com/us/app/homer-shn-qo/id1506388041'><img alt='Get it on the App Store' style='width:175px;' src='/images/download_apple.svg'></a><br>
@@ -41,7 +41,7 @@ permalink: /instructions
 
 <br>
 
-**6.** Enter the postal code of your quarantine location, and tap **Confirm**.
+**6.** Enter the postal code of your isolation/residential location, and tap **Confirm**.
 <div class="image-wrapper">
     <img src="/images/ios-screens/postal-code.png" style='width: 200px'/>
 </div>
@@ -83,7 +83,7 @@ permalink: /instructions
 
 
 ### **Submit Report**
-You will be reminded to submit reports multiple times a day. The steps below vary according to whether you are on **Stay-Home Notice** or **Quarantine Order**.
+You will be reminded to submit reports multiple times a day.
 
 #### **1. Submitting your photo for identity verification**
 
