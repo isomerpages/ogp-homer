@@ -10,6 +10,6 @@ permalink: /ios
 
 ### **2. Ensure you can see the blue bar at the top of your screen**<br>
 Otherwise, open Homer again and don’t swipe it away.
-<div class="image-wrapper" style='padding-bottom:0px;'>
-    <img alt='iOS location bar' style='width:500px;' src='/images/swipe/ios-no-swipe.png'>
+<div class="image-wrapper">
+    <img alt='iOS location bar' style='width:400px;' src='/images/swipe/ios-no-swipe.png'>
 </div>
