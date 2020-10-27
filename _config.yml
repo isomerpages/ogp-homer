@@ -27,6 +27,9 @@ colors:
       color: '#00838f'
 
 
+collections:
+  left-nav-one:
+    output: false
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
