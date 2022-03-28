@@ -5,7 +5,7 @@ description: Welcome to Homer
 image: /images/homer-logo.png
 permalink: /
 notification: Homer has been decommissioned as of Dec 2021. For more information
-  on products by the Open Government Products team, please visit<a
+  on products by the Open Government Products team, please visit <a
   href='https://open.gov.sg'>open.gov.sg</a>.
 sections:
   - hero:
